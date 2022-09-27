@@ -8,3 +8,4 @@
 # paramiko==2.7.2 # for auto_backup module
 python-barcode
 pypeg2
+matplotlib
